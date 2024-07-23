@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "SmartHome",
+    "slug": "SmartHome",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/smarthome.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hieu.nt.SmartHome"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "95f7ce40-1661-44a3-91a3-d5f80555d52f"
+      }
+    }
+  }
+}
